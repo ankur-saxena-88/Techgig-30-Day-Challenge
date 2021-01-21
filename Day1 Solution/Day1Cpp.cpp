@@ -31,7 +31,7 @@ int main (){ //main function
 }
 
 /*
-SAve this file as 'Day1Cpp.cpp'
+Save this file as 'Day1Cpp.cpp'
 Compile: $ g++ Day1Cpp.cpp -o Day1Cpp [press Enter]
 Execute: $ Day1Cpp [press Enter]
 Output:
