@@ -21,7 +21,7 @@ int main() //Main function
 	long int int_value; 
 	char str[num] = "";
 	
-	system ("cls"); //Clear the console screen
+	system ("clear"); //Clear the console screen
 
 	//Using 'fgets()' command
 	fgets(input, 100, stdin);
