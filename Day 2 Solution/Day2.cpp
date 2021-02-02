@@ -2,7 +2,7 @@
 Program: Techgig Day 2 - Exploring Data Types Using CPP.
 Date: Friday, 29-11-2020
 @author: Ankur Saxena
-Platform: Linux Mint 18.04/x64/gcc 5.0/VS Code Text Editor
+Platform: Linux Mint 18.04/x64/g++ 5.0/VS Code Text Editor
 */
 
 //Program start
